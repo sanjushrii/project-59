@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: chartreuse;
+
+}
+
+h1 {
+    text-align: center;
+    color: deepskyblue;
+}
+
+p {
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+h2 {
+    font-family: cursive;
+    color: aqua;
+}
